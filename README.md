@@ -1,6 +1,7 @@
 # tic-tac-toe
 cs club game project
 Tic Tac Toe - CS Club Project
+By - team coding crush , 1.tanishk jain 2. sameer ujjawal 3. Harsh yadav 4.Shruti 5. Anjali
 
 This is a web-based Tic Tac Toe game built using Python, Flask, HTML, and CSS.
 
@@ -14,3 +15,4 @@ How to Run:
 2. Install Flask by typing: pip install flask
 3. Run the game by typing: py app.py
 4. Open your web browser and go to: [http://127.0.0.1:5000](http://127.0.0.1:5000)
+
